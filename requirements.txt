@@ -1,0 +1,5 @@
+I am following the Home work 02
+Create a new branch called “code_cleanup”. Checkout to this branch and modify the
+“math_quiz.py” file
+Add, commit and push the file.
+● Checkout to the main branch again and merge your “code_cleanup” branch to the main branch.
